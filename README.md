@@ -22,4 +22,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- [Lucian BLETAN](https://github.com/exaluc)
+- [Lucian BLETAN](https://github.com/gni)
